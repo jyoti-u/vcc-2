@@ -10,7 +10,7 @@ This project demonstrates:
 
 ## Auto-Scaling Configuration
 - Min Instances: 1
-- Max Instances: 5
+- Max Instances: 4
 - Target CPU Utilization: 60%
 
 ## Security
